@@ -1,5 +1,5 @@
 task
-Bu loyiha **[*********] kompaniyasi uchun texnik topshiriq** bo‘lib, test API bilan ishlash ko‘nikmalarini namoyish etadi.  
+Bu **[*********] kompaniyasi uchun texnik topshiriq** bo‘lib, test API bilan ishlash ko‘nikmalarini namoyish etadi.  
 Skript `POST` va `GET` so‘rovlar orqali server bilan muloqot qiladi, ma’lumotni qayta ishlaydi va yakuniy javobni konsolga chiqaradi.
 
 
